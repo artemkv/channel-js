@@ -1,5 +1,5 @@
 {
-  "name": "channel-js",
+  "name": "msg-channel-js",
   "version": "1.0.0",
   "description": "Sequencing async processing for messages",
   "keywords": [

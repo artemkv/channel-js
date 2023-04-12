@@ -1,4 +1,4 @@
-channel-js - Sequencing async message processing
+msg-channel-js - Sequencing async message processing
 =======
 
 This is inspired by Go channels.
@@ -21,7 +21,7 @@ Processing of a single event involves modifying some internal data structures, a
 Import:
 
 ```js
-const { makeChannel } = require('channel-js');
+const { makeChannel } = require('msg-channel-js');
 ```
 
 Basic usage:
