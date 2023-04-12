@@ -1,0 +1,24 @@
+{
+  "name": "channel-js",
+  "version": "1.0.0",
+  "description": "Sequencing async processing for messages",
+  "keywords": [
+    "async",
+    "message",
+    "sequencer"
+  ],
+  "homepage": "https://github.com/artemkv/channel-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkv/channel-js.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Artem Kondratyev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
